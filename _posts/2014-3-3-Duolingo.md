@@ -1,3 +1,5 @@
+![_config.yml]({{ site.baseurl }}/images/yatagarasu_A.jpg)
+
 Duolingo is a free app (with minimal ads) that encodes language items with heavy focus on chunking. This is useful for some tricky
 nuances of languages like French word-final irregularities. Flashcards are thrown out in favor of multiple guess. Facile memory 
 encoding is blended with recall which gamifies the entire experience. n/
