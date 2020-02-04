@@ -1,9 +1,9 @@
 ---
 layout: post
-title: You're up and running!
+title: What is Phonology?
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+When you were a baby, you probably learned to talk from your parents so chances are, you speak a lot like them. If you learned a different language from the one you spoke as a child, or if you spoke 2 or more languages as a child, you had to make your tongue move differently from the way it naturally wants to move.   _config.yml file in the root of your repository (shown below).
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
 
