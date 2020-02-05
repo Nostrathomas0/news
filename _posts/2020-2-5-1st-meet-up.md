@@ -1,9 +1,10 @@
 ---
 ## ESL Speak up
 ---
-*I understand English but I can't speak it.* or maybe *My friends and I always speak our native language* or
-*My presentation is good but I'm nervous to speak*. There's a club for you. 
-**English Speak Up!**  
+Is this you? --> *I understand English but I can't speak it.*   
+or maybe *My friends and I always speak our native language*   
+or perhaps *My presentation is good but I'm nervous to speak*   
+There's a club for you --> **English Speak Up!**  
 On Wednesday February 5th at 8:30 
 We'll be practicing introductions, presentation skills, and English for 2020 and beyond.
 
