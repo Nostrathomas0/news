@@ -3,7 +3,7 @@ layout: post
 title: Extra Foot English's Purpose
 ---
 
-We want to help get you more balanced as an English user and language learner.
+Balanced your English as a language learner. Learn and practice the important parts like talking to people.
 This club is designed for internationals who wish to improve their communication skills in English.The content is for those  involved in 
 academic programs in English but fluency is not requiered. In fact, we create fluency with creative engaging activities that help us think 
 before we speak.  
