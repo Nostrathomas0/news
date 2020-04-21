@@ -1,10 +1,12 @@
 ---
 layout: page
 title: About
-permalink: https://languapps.com/2/
+permalink: https://languapps.com/review
 ---
 
-This club is for fierce learners of language. Total DIY.
+Let's see your reviews, fierce learners of language. DIY.
+Seeking reviews and servers
+send em sail em
 
 ### Contact me
 
